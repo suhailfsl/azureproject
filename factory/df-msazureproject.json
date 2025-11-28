@@ -1,0 +1,9 @@
+{
+	"name": "df-msazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7175f3db-b3b9-4f99-9588-67dd2ec08ca7",
+		"tenantId": "1b7dbf71-44f6-4ffb-b321-ac19a31b1a9f"
+	}
+}
